@@ -1,6 +1,6 @@
 {
-  "version": "sample-1.9.4",
-  "built": "2026-09-16",
+  "version": "sample-4.3",
+  "built": "2026-10-08",
   "pages": [
     "index.html",
     "intro.html",
@@ -37,6 +37,24 @@
     "chapter6-3.html",
     "chapter6-4.html",
     "chapter6-summary.html",
+    "chapter7.html",
+    "chapter7-1.html",
+    "chapter7-2.html",
+    "chapter7-3.html",
+    "chapter7-4.html",
+    "chapter7-summary.html",
+    "chapter8.html",
+    "chapter8-1.html",
+    "chapter8-2.html",
+    "chapter8-3.html",
+    "chapter8-4.html",
+    "chapter8-summary.html",
+    "chapter17.html",
+    "chapter17-1.html",
+    "chapter17-2.html",
+    "chapter17-3.html",
+    "chapter17-4.html",
+    "chapter17-summary.html",
     "sources.html"
   ]
 }
